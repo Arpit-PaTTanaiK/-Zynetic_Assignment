@@ -1,5 +1,5 @@
 ZyneticTask is an Android application built using Kotlin, Jetpack Compose, and MVVM architecture.
-It has two screen one for fetching list of product from ui an displaying all the products and the second screen shows details about the clicked product.
+It has two screen one for fetching list of product from api and displaying all the products.The second screen shows details about the clicked product.
 
  Features
 
