@@ -9,3 +9,10 @@ It has two screen one for fetching list of product from api and displaying all t
 4. MVVM architecture
 5. Network requests using Retrofit
 6. Modern UI using Jetpack Compose
+
+Tech Stack
+1.Language: Kotlin
+2.UI Framework: Jetpack Compose 
+3.Architecture: MVVM 
+4.API Handling: Retrofit 
+5.Image Loading: Coil 
